@@ -8,12 +8,12 @@
     gap: 0;
 }
 
-.color-grey{
+.color-grey:hover{
     background-color: grey;
     color: white;
 }
 
-.color-black{
+.color-black:hover{
     background-color: black;
     color: white;
 }
