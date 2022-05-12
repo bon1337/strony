@@ -12,7 +12,7 @@ function Wzorzec()
         {
             if(!wzory[pole].test(formularz[pole].value))
             {
-                alert("Pole"+pole+"ma nieprawidlowa wartosc");
+                alert("Pole "+pole+" ma nieprawidlowa wartosc");
                 return false;
             }
         }
